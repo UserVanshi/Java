@@ -21,7 +21,7 @@ public class PrintSeries {
     }
 	public static void main(String[] args) {
  
-		 PrintSeries.printDec(7);
+		 PrintSeries.printDec(8);//comment added in main 7 to 8
 		 PrintSeries.printInc(7);
  
 
