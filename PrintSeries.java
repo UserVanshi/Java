@@ -20,8 +20,10 @@ public class PrintSeries {
     	System.out.print(a+" ");
     }
 	public static void main(String[] args) {
-		 PrintSeries.printDec(5);
-		 PrintSeries.printInc(5);
+ 
+		 PrintSeries.printDec(9);//comment added in main 7 to 9
+		 PrintSeries.printInc(7);
+ 
 
 	}
 
